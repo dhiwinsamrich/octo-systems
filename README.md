@@ -4,7 +4,7 @@ This repository contains my professional resume in HTML format.
 
 ## About
 
-This is my up-to-date resume created using HTML. You can open the `index.html` file in any web browser to view it.
+This is my up-to-date resume created using HTML. You can open the `resume.html` file in any web browser to view it.
 
 ## Features
 
@@ -20,7 +20,7 @@ This is my up-to-date resume created using HTML. You can open the `index.html` f
 
 ## How to Customize
 
-You can edit the `index.html` file using any text editor or IDE to update your personal details, work experience, or styling.
+You can edit the `resume.html` file using any text editor or IDE to update your personal details, work experience, or styling.
 
 ## License
 
