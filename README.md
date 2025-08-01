@@ -1,4 +1,4 @@
-# Resume
+# Resume - Dhiwin Samrich
 
 This repository contains my professional resume in HTML format.
 
