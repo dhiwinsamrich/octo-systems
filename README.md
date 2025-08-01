@@ -15,7 +15,7 @@ This is my up-to-date resume created using HTML. You can open the `index.html` f
 ## How to View
 
 1. Clone or download this repository to your local machine.
-2. Open the `index.html` file in your preferred web browser (Chrome, Firefox, Edge, Safari, etc.).
+2. Open the `resume.html` file in your preferred web browser (Chrome, Firefox, Edge, Safari, etc.).
 3. View or share your resume digitally.
 
 ## How to Customize
